@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "230650969604",
+    "firebase_url": "https://yemekyee-6c043.firebaseio.com",
+    "project_id": "yemekyee-6c043",
+    "storage_bucket": "yemekyee-6c043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230650969604:android:f7d42c03941a2754",
+        "android_client_info": {
+          "package_name": "com.androideatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230650969604-3oil2qaf56pkkh7mc6e1rs71eg810fau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwRDBRn8VGYMvuclVOwfDXrkX1ryh16kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230650969604-3oil2qaf56pkkh7mc6e1rs71eg810fau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230650969604:android:6cc66e1bc1f88ac6",
+        "android_client_info": {
+          "package_name": "com.example.erdem.restoransiparis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230650969604-3oil2qaf56pkkh7mc6e1rs71eg810fau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwRDBRn8VGYMvuclVOwfDXrkX1ryh16kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230650969604-3oil2qaf56pkkh7mc6e1rs71eg810fau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230650969604:android:0da41a4e84267044",
+        "android_client_info": {
+          "package_name": "com.example.mustafa.restorantsiparisv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230650969604-3oil2qaf56pkkh7mc6e1rs71eg810fau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwRDBRn8VGYMvuclVOwfDXrkX1ryh16kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230650969604-3oil2qaf56pkkh7mc6e1rs71eg810fau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
